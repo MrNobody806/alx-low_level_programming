@@ -1,4 +1,4 @@
-# Holberton-School_0x11-singly_linked_lists
+#0x12-singly_linked_lists
 
 0. Print list mandatory
 
